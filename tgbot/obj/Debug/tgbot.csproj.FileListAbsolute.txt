@@ -1,0 +1,11 @@
+C:\Users\ilya1\source\repos\tgbot\tgbot\bin\Debug\tgbot.exe.config
+C:\Users\ilya1\source\repos\tgbot\tgbot\bin\Debug\tgbot.exe
+C:\Users\ilya1\source\repos\tgbot\tgbot\bin\Debug\tgbot.pdb
+C:\Users\ilya1\source\repos\tgbot\tgbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilya1\source\repos\tgbot\tgbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilya1\source\repos\tgbot\tgbot\obj\Debug\tgbot.csproj.AssemblyReference.cache
+C:\Users\ilya1\source\repos\tgbot\tgbot\obj\Debug\tgbot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilya1\source\repos\tgbot\tgbot\obj\Debug\tgbot.csproj.CoreCompileInputs.cache
+C:\Users\ilya1\source\repos\tgbot\tgbot\obj\Debug\tgbot.csproj.CopyComplete
+C:\Users\ilya1\source\repos\tgbot\tgbot\obj\Debug\tgbot.exe
+C:\Users\ilya1\source\repos\tgbot\tgbot\obj\Debug\tgbot.pdb
